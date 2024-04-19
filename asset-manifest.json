@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mong92.github.io/pageweb/static/css/main.8ef4b330.css",
+    "main.js": "/mong92.github.io/pageweb/static/js/main.ac1ed7f1.js",
+    "static/js/453.622e3623.chunk.js": "/mong92.github.io/pageweb/static/js/453.622e3623.chunk.js",
+    "index.html": "/mong92.github.io/pageweb/index.html",
+    "main.8ef4b330.css.map": "/mong92.github.io/pageweb/static/css/main.8ef4b330.css.map",
+    "main.ac1ed7f1.js.map": "/mong92.github.io/pageweb/static/js/main.ac1ed7f1.js.map",
+    "453.622e3623.chunk.js.map": "/mong92.github.io/pageweb/static/js/453.622e3623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef4b330.css",
+    "static/js/main.ac1ed7f1.js"
+  ]
+}
